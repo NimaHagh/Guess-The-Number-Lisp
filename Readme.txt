@@ -1,4 +1,4 @@
-This Lisp program will guess the users age through binary search.
+This Lisp program will guess the users selected number using binary search.
 
 The program will use global variables to store the lower and upper bound numbers.
 
